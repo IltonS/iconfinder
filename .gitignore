@@ -1,5 +1,8 @@
+# Dev C++ generated files
 *.exe
 *.res
 *.o
 *_private.*
 *.win
+
+*.zip
