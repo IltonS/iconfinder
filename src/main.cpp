@@ -24,15 +24,15 @@
  \**************************************************************************************/
 
 /*
-	Program Name:
+	Module Name:
 	
 		InconFinder
 	
 	Abstract:
 		
-		This program takes a directory path as param (-d || --directory) and searchs this
-		path with subfolders for .dll files that contain icon resources. The output of the
-		program will be a list of all the files that were found.
+		This is a C++ program that searches for DLL files in a specified directory 
+		and its subdirectories, and checks if they contain at least one icon. 
+		The program prints the paths of all DLL files that contain at least one icon.
 	
 	Author:
 	
